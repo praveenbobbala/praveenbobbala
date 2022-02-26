@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @praveenbobbala
 - 👀 I’m interested in learning Blockchain
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me on .. 
 
 <!---
 praveenbobbala/praveenbobbala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
